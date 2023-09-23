@@ -1,0 +1,11 @@
+Requisitos não funcionais:
+
+RNF01 - O sistema deve permitir autenticação social
+
+RNF02 - O sistema deve permitir mobilidade para diferentes telas
+
+RNF03 - O sistema deve permitir integração com paypal
+
+RNF04 - O sistema deve estar em container
+
+RNF05 - O sistema deve apresentar testes automatizados

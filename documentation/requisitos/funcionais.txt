@@ -1,0 +1,19 @@
+Requisitos Funcionais:
+
+RF01 - O sistema deve permitir o gerenciamento de usuários
+
+RF02 - O sistema deve permitir o gerenciamento de suas artes
+
+RF03 - O sistema deve permitir a disponibilização para venda
+
+RF04 - O sistema deve permitir a disponibilização para museu (Pega artes aleatórias de diferentes usuários e cria um museu)
+
+RF05 - O sistema deve permitir que artes sejam públicas, privadas ou compartilhadas
+
+RF06 - O sistema deve permitir que as artes tenham avaliações
+
+RF07 - O sistema deve permitir que as artes tenham comentários
+
+RF08 - O sistema deve permitir gerar relatórios de vendas
+
+RF09 - O sistema deve permitir que usuários se favoritem

@@ -1,0 +1,11 @@
+Regras de negócios:
+
+RN01 - Todo usuário só pode avaliar artes que não são suas
+
+RN02 - O museu seleciona artes aleatórias de usuários diferentes
+
+RN03 - Usuários com mais de 100 favoritos obtém selo de confiabilidade
+
+RN04 - Atitudes desrespeitosas provocam suspensão do usuário
+
+RN05 - É possível separar as artes por meio das categorias
