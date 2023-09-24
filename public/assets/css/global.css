@@ -1,0 +1,37 @@
+@charset "UTF-8";
+:root{
+    --color-primary: #000814;
+    --color-emphasis : #FFD60A;
+}
+@keyframes typing {
+    from{
+        width: 0;
+    }
+}
+@keyframes blinking {
+    50% {
+        border-color: transparent;
+    }
+}
+.navbar, #offcanvasDarkNavbar, #container{
+    background-color: var(--color-primary) !important;
+}
+#container{
+    min-height: 90vh;
+}
+#container h1 {
+    color: var(--color-emphasis) !important;
+    width: 14ch;
+    border-right: 4px solid;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 70px;
+    animation: typing 2s steps(14), blinking 0.5s infinite step-end alternate;
+}
+.secondary_title::before{
+    content: '';
+    display: block;
+    height: 10px;
+    width: 10%;
+    background-color: var(--color-primary);
+}
